@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "prop-types": "^15.7.2",
-    "react-native-interactable": "^0.1.10"
+    "react-native-interactable": "https://github.com/wix/react-native-interactable.git"
   },
   "devDependencies": {
     "babel-jest": "19.0.0",
